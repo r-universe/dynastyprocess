@@ -7,3 +7,4 @@
 	path = ffscrapr
 	url = https://github.com/dynastyprocess/ffscrapr
 	shallow = true
+	registered = true
