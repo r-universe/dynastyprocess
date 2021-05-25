@@ -2,5 +2,8 @@
   {
     "package": "ffscrapr",
     "oncran": true
+  },
+  {
+    "package": "fpscrapr"
   }
 ]
