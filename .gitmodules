@@ -9,10 +9,11 @@
 	shallow = true
 	branch = dev
 	registered = true
-[submodule "fpscrapr"]
-	path = fpscrapr
-	url = https://github.com/dynastyprocess/fpscrapr
+[submodule "ffpros"]
+	path = ffpros
+	url = https://github.com/dynastyprocess/ffpros
 	shallow = true
+	branch = dev
 	registered = true
 [submodule "usetheprocess"]
 	path = usetheprocess
