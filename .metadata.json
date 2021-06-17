@@ -1,10 +1,12 @@
 [
   {
-    "package": "ffscrapr",
-    "oncran": true
+    "package": "ffscrapr (dev)"
   },
   {
     "package": "ffpros"
+  },
+  {
+    "package": "ffsimulator"
   },
   {
     "package": "usetheprocess"
