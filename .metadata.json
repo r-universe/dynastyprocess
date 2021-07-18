@@ -1,6 +1,7 @@
 [
   {
-    "package": "ffscrapr (dev)"
+    "package": "ffscrapr",
+    "oncran": true
   },
   {
     "package": "ffpros"

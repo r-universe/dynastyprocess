@@ -3,8 +3,8 @@
 	url = https://github.com/dynastyprocess/universe
 	shallow = true
 	branch = HEAD
-[submodule "ffscrapr (dev)"]
-	path = ffscrapr (dev)
+[submodule "ffscrapr"]
+	path = ffscrapr
 	url = https://github.com/dynastyprocess/ffscrapr
 	shallow = true
 	branch = dev
